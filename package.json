@@ -1,0 +1,12 @@
+{
+  "name": "sakura-gateway",
+  "version": "1.0.0",
+  "description": "Sakura Loader Gateway Relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
